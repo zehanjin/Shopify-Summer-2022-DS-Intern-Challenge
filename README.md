@@ -1,1 +1,1 @@
-Solutions to Shopify Summer 2022 Data Science Intern Challenge
+[Solutions](https://github.com/zehanjin/Shopify-Summer-2022-DS-Intern-Challenge/blob/main/solutions.pdf) of [Shopify Summer 2022 Data Science Intern Challenge](https://docs.google.com/document/d/13VCtoyto9X1PZ74nPI4ZEDdb8hF8LAlcmLH1ZTHxKxE/edit#heading=h.5j27tl9uwcuc)
